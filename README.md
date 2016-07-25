@@ -23,7 +23,7 @@ cmake ..
 make
 ```
 
-## HOW TO BUILD ON IOS
+##BUILD on iOS
 
 ```
 cd build_ios
