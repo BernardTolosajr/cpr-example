@@ -32,6 +32,7 @@ make
 ```
 
 This should produce a binary in the build directory called `example.a`.
+Example xcode found [here](https://github.com/BernardTolosajr/cpr-example-ios)
 
 ## Documentation
 
