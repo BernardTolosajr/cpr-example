@@ -36,3 +36,6 @@ install_manifest.txt
 
 # Custom
 build/
+build_ios/
+build_ios/build.debug
+

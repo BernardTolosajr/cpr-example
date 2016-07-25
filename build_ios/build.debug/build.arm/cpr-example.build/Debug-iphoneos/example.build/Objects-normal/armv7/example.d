@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/bernardtaloza/Documents/cppworks/opensource/cpr-example/example.cpp \
+  /Users/bernardtaloza/Documents/cppworks/opensource/cpr-example/include/example.h \
+  /Users/bernardtaloza/Documents/cppworks/opensource/cpr-example/build_ios/cpr/include/cpr/cpr.h \
+  /Users/bernardtaloza/Documents/cppworks/opensource/cpr-example/build_ios/cpr/include/cpr/api.h \
+  /Users/bernardtaloza/Documents/cppworks/opensource/cpr-example/build_ios/cpr/include/cpr/auth.h \
+  /Users/bernardtaloza/Documents/cppworks/opensource/cpr-example/build_ios/cpr/include/cpr/defines.h \
+  /Users/bernardtaloza/Documents/cppworks/opensource/cpr-example/build_ios/cpr/include/cpr/cprtypes.h \
+  /Users/bernardtaloza/Documents/cppworks/opensource/cpr-example/build_ios/cpr/include/cpr/digest.h \
+  /Users/bernardtaloza/Documents/cppworks/opensource/cpr-example/build_ios/cpr/include/cpr/multipart.h \
+  /Users/bernardtaloza/Documents/cppworks/opensource/cpr-example/build_ios/cpr/include/cpr/payload.h \
+  /Users/bernardtaloza/Documents/cppworks/opensource/cpr-example/build_ios/cpr/include/cpr/response.h \
+  /Users/bernardtaloza/Documents/cppworks/opensource/cpr-example/build_ios/cpr/include/cpr/cookies.h \
+  /Users/bernardtaloza/Documents/cppworks/opensource/cpr-example/build_ios/cpr/include/cpr/error.h \
+  /Users/bernardtaloza/Documents/cppworks/opensource/cpr-example/build_ios/cpr/include/cpr/session.h \
+  /Users/bernardtaloza/Documents/cppworks/opensource/cpr-example/build_ios/cpr/include/cpr/body.h \
+  /Users/bernardtaloza/Documents/cppworks/opensource/cpr-example/build_ios/cpr/include/cpr/max_redirects.h \
+  /Users/bernardtaloza/Documents/cppworks/opensource/cpr-example/build_ios/cpr/include/cpr/parameters.h \
+  /Users/bernardtaloza/Documents/cppworks/opensource/cpr-example/build_ios/cpr/include/cpr/proxies.h \
+  /Users/bernardtaloza/Documents/cppworks/opensource/cpr-example/build_ios/cpr/include/cpr/timeout.h \
+  /Users/bernardtaloza/Documents/cppworks/opensource/cpr-example/opt/json/src/json.hpp
