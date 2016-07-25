@@ -23,6 +23,12 @@ cmake ..
 make
 ```
 
+## HOW TO BUILD ON IOS
+
+cd build_ios
+cmake .. -DCMAKE_BUILD_TYPE=Debug
+make
+
 This should produce a binary in the build directory called `example`. Run it! If you get a response in the form of some json object, then everything worked as expected! The program you just ran is a sweet 3 liner you'll find [here](https://github.com/whoshuu/cpr-example/blob/master/example.cpp).
 
 ## Documentation
@@ -38,5 +44,3 @@ The only explicit requirement is a C++11 compatible compiler such as clang or gc
 Please fork the parent repository and contribute back using [pull requests](https://github.com/whoshuu/cpr/pulls). Features can be requested using [issues](https://github.com/whoshuu/cpr/issues). All code, comments, and critiques are greatly appreciated.
 
 For direct contributions to the example project, you can open [pull requests](https://github.com/whoshuu/cpr-example/pulls) or [issues](https://github.com/whoshuu/cpr-example/issues).
-
-cmake .. -DCMAKE_BUILD_TYPE=Debug
