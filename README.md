@@ -23,13 +23,15 @@ cmake ..
 make
 ```
 
-## HOW TO BUILD ON IOS
+##Build on iOS
 
+```
 cd build_ios
 cmake .. -DCMAKE_BUILD_TYPE=Debug
 make
+```
 
-This should produce a binary in the build directory called `example`. Run it! If you get a response in the form of some json object, then everything worked as expected! The program you just ran is a sweet 3 liner you'll find [here](https://github.com/whoshuu/cpr-example/blob/master/example.cpp).
+This should produce a binary in the build directory called `example.a`.
 
 ## Documentation
 
